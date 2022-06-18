@@ -12,7 +12,7 @@ To generate path, Run:
 
 ### Uniform
 <p align = "center">
-    <img src = "Uniform.png">
+    <img src = "Unifrom.png">
     <br>
 </p>
 
