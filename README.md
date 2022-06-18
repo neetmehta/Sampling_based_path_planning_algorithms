@@ -6,4 +6,4 @@ This repo considt of implementation of Probabilistic Road map (PRM) approach, Ra
 
 To generate path, Run:
 `python main.py` for PRM, RRT, RRT*.
-`python main_informed_rrt.py` for Informed RRT*
+`python main_informed_RRT.py` for Informed RRT*
