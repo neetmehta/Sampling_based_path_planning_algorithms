@@ -10,8 +10,8 @@ To generate path, Run:
 
 ## Results
 
-### Uniform
+### Gaussian
 <p align = "center">
-    <img src = "Uniform.png">
+    <img src = "gaussian.png">
     <br>
 </p>
