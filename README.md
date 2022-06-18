@@ -12,6 +12,6 @@ To generate path, Run:
 
 ### Uniform
 <p align = "center">
-    <img src = "./Uniform.png">
+    <img src = "Uniform.png">
     <br>
 </p>
