@@ -10,8 +10,32 @@ To generate path, Run:
 
 ## Results
 
+### Uniform
+<p align = "center">
+    <img src = "Uniform.png">
+    <br>
+</p>
+
 ### Gaussian
 <p align = "center">
     <img src = "gaussian.png">
+    <br>
+</p>
+
+### RRT
+<p align = "center">
+    <img src = "RRT.png">
+    <br>
+</p>
+
+### RRT*
+<p align = "center">
+    <img src = "RRT_star.png">
+    <br>
+</p>
+
+### Informed RRT*
+<p align = "center">
+    <img src = "informed_rrt_star_result.png">
     <br>
 </p>
